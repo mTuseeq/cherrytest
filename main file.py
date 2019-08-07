@@ -1,8 +1,3 @@
 import requests
 
-print('abc')
-print('first branch')
-print('2nd branch')
-
-
-print('new work')
+print('this is new commit in branch 1')
